@@ -13,12 +13,14 @@
 
 <!-- CSS Rotating Duende Collective sign -->
 
-  <div class="duende-sign">
-    Duende Collective<br>
-    <span class="under">— under construction —</span>
-  </div>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/alysartabet/alysartabet/main/assets/duende-sign.svg" 
+    alt="Duende Collective — under construction"
+    width="320"
+  >
+</p>
 
-</div>
 
 <br><br>
 
