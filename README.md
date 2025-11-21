@@ -12,32 +12,6 @@
 <br>
 
 <!-- CSS Rotating Duende Collective sign -->
-<div align="center">
-
-  <style>
-    @keyframes rotateZ {
-      0% { transform: rotateZ(0deg); }
-      50% { transform: rotateZ(15deg); }
-      100% { transform: rotateZ(0deg); }
-    }
-    .duende-sign {
-      display: inline-block;
-      padding: 20px 40px;
-      margin-top: 10px;
-      border: 2px solid #555;
-      border-radius: 12px;
-      font-size: 28px;
-      font-weight: 600;
-      background: linear-gradient(135deg, #f9f9f9, #e9e9e9);
-      box-shadow: 0 8px 20px rgba(0,0,0,0.08);
-      animation: rotateZ 3.5s ease-in-out infinite;
-    }
-    .under {
-      font-size: 16px;
-      font-weight: 400;
-      color: #444;
-    }
-  </style>
 
   <div class="duende-sign">
     Duende Collective<br>
@@ -105,25 +79,6 @@ Includes Supabase backends, RSVP flows, outfit boards, shared grocery lists, gue
 <div align="center">
 
   <!-- Animated open book -->
-  <style>
-    @keyframes bookOpen {
-      0% { transform: rotateX(0deg); }
-      50% { transform: rotateX(15deg); }
-      100% { transform: rotateX(0deg); }
-    }
-    .book {
-      width: 180px;
-      animation: bookOpen 4s ease-in-out infinite;
-    }
-    .book-title {
-      margin-top: 10px;
-      font-size: 18px;
-      font-weight: 500;
-    }
-  </style>
-
-  <img class="book" src="https://i.imgur.com/ft4fYzD.png" alt="Open Book">
-
   <div class="book-title">
     <strong>Currently Reading: <em>The Atlas Six</em> 📖</strong>
   </div>
