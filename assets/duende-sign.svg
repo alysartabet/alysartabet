@@ -1,0 +1,32 @@
+<svg width="380" height="120" viewBox="0 0 380 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes wobble {
+      0%   { transform: rotate(0deg); }
+      50%  { transform: rotate(4deg); }
+      100% { transform: rotate(0deg); }
+    }
+    #card {
+      animation: wobble 4s ease-in-out infinite;
+      transform-origin: 50% 50%;
+    }
+    .title {
+      font: 700 22px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      fill: #111;
+    }
+    .subtitle {
+      font: 400 13px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      fill: #444;
+    }
+  </style>
+
+  <g id="card">
+    <rect x="20" y="20" rx="16" ry="16" width="340" height="80"
+          fill="#f7f7f7" stroke="#d0d0d0" stroke-width="2"/>
+    <text x="190" y="60" text-anchor="middle" class="title">
+      Duende Collective
+    </text>
+    <text x="190" y="82" text-anchor="middle" class="subtitle">
+      — under construction —
+    </text>
+  </g>
+</svg>
