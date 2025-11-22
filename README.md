@@ -5,11 +5,14 @@
 ## Welcome, I'm Alysar
 
 <p align="center">
-  <em>I design and develop highly aesthetic, interactive web experiences.<br>
-  If something can be animated, visualized, or made beautiful, I make it happen.</em>
+  <em><br>
+  </em>
 </p>
 
 <br>
+## I design and develop highly aesthetic, interactive web experiences.
+## If something can be animated, visualized, or made beautiful, I make it happen.
+
 
 <!-- CSS Rotating Duende Collective sign -->
 
