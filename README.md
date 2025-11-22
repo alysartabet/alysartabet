@@ -2,7 +2,7 @@
 <!--  SECTION 1 — INTRO + DUENDE COLLECTIVE   -->
 <!-- ========================================= -->
 
-##Welcome, I'm Alysar
+## Welcome, I'm Alysar
 
 <p align="center">
   <em>I design and develop highly aesthetic, interactive web experiences.<br>
