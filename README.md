@@ -3,7 +3,9 @@
 <!-- ========================================= -->
 
 ## Welcome
-### I create motion-rich, expressive digital spaces that let ideas breathe, shift, and come alive. I invite you to pause and notice.
+<p align="center">
+  <img src="assets/hero-text.svg" alt="I create motion-rich, expressive digital spaces that let ideas breathe, shift, and come alive. I invite you to pause and notice." />
+</p>
 
 
 
