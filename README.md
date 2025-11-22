@@ -2,8 +2,8 @@
 <!--  SECTION 1 — INTRO + DUENDE COLLECTIVE   -->
 <!-- ========================================= -->
 
-## Welcome, I'm Alysar
-I design and develop highly aesthetic, interactive web experiences. If something can be animated, visualized, or made beautiful, I make it happen.
+## Welcome
+### I create motion-rich, expressive digital spaces that let ideas breathe, shift, and come alive. I invite you to pause and notice.
 
 
 
@@ -13,7 +13,7 @@ I design and develop highly aesthetic, interactive web experiences. If something
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/alysartabet/alysartabet/main/assets/duende-sign.svg" 
-    alt="Duende Collective — under construction"
+    alt="Duende Collective — under constructio
     width="320"
   >
 </p>
