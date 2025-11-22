@@ -3,8 +3,7 @@
 <!-- ========================================= -->
 
 ## Welcome, I'm Alysar
-## I design and develop highly aesthetic, interactive web experiences.
-## If something can be animated, visualized, or made beautiful, I make it happen.
+I design and develop highly aesthetic, interactive web experiences. If something can be animated, visualized, or made beautiful, I make it happen.
 
 
 
